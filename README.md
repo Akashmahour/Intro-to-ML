@@ -1,10 +1,10 @@
+# Task 2
 # flighttakeoffdata
 Predicting the Taxi-Out Delay.
 GIven the dataset predict the runway time of the flight
 
-Deepankur Kansal · 43 Submissions
 
-Task Details
+# Task Details
 Go throught the dataset and perform preprocessing and then perform a 90:10 split and for train and test pruposes.
 Firstly label encode the columns which are required.
 Your target or y variable is TAXI-OUT time. Use all 8 algorithms above on the dataset with loss score as RMSE (Root mean Square Error).
